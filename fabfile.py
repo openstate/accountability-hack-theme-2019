@@ -6,7 +6,7 @@ import getpass
 GIT_REPO = 'accountability-hack-theme-2019'
 
 # Path of the directory
-DIR = '/home/projects/wordpress-new/wp-content/themes/%s' % (GIT_REPO)
+DIR = '/home/projects/wordpress/wp-content/themes/%s' % (GIT_REPO)
 
 # Container used to compile the assets
 NODE_CONTAINER = 'accountability-hack-theme-2019_node_1'
